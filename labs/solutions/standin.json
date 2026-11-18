@@ -1,0 +1,20 @@
+{
+  "note": "Scripted stand-in outputs: no model was called while building this course. structure_2_1 is what a hosted model is assumed to propose in lab 2.1 step 4 (AI tutor) when given the Public items E01 to E04 and E10 and the paper template; section3_draft is files/review/section3_draft.md, written by the course author to stand for an AI draft with six planted defects.",
+  "structure_2_1": [
+    "1. الملخص التنفيذي والتوصية",
+    "2. خلفية الطلب",
+    "3. تحليل الطلب على خدمات المستفيدين",
+    "4. الخيارات المتاحة",
+    "5. المقارنة والتقييم",
+    "6. المخاطر",
+    "7. خارطة التنفيذ",
+    "8. الخاتمة"
+  ],
+  "structure_2_1_gaps": [
+    "لا قسم لعدم اليقين وما يغيّر التوصية",
+    "لا قسم للإفصاح عن استخدام الذكاء الاصطناعي",
+    "لا مرجع للمقارنة (بقاء الحال كما هو)",
+    "خارطة تنفيذ تتجاوز نطاق التكليف"
+  ],
+  "section3_draft": "files/review/section3_draft.md"
+}

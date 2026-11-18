@@ -1,0 +1,31 @@
+# العمل الاستشاري في تكليفات البيانات والذكاء الاصطناعي
+
+> تحوّل طلبًا غامضًا إلى قرار، وتيسّر ورشة توصل المختلفين إلى قرار موثق، وتكتب ورقة خيارات يرجع كل ادعاء فيها إلى دليل، وتحمي استقلالك وبيانات عميلك. مقرر من أكاديمية سدايا، الرمز LDS-ADV-302، الإصدار 2027.1.0، بالعربية.
+
+كل شريحة عنوان مثل "#### [day1#slide-id] العنوان": استشهد بالشرائح بهذا المعرّف، وكل استشهاد رابط (slides/day1.html#slide-id). هذه الملفات هي ما يراه المشارك: لا ملاحظات المدرّب فيها ولا مفاتيح الإجابة.
+
+## المقرر
+
+- [صفحة المقرر](https://sdaiaacademy.github.io/lds-adv-302/index.md): نظرة عامة ونواتج التعلم والجدول والمختبرات؛ الصفحة نفسها https://sdaiaacademy.github.io/lds-adv-302/index.html
+- [المقرر كاملًا](https://sdaiaacademy.github.io/lds-adv-302/llms-full.txt): كل وحدة وجلسة وشريحة في ملف واحد، نحو 15,376 من الوحدات النصية
+- [أسئلة التدريب](https://sdaiaacademy.github.io/lds-adv-302/practice.html): أسئلة تختبر بها نفسك، مع تعليل بعد كل إجابة
+
+## الشرائح
+
+- [اليوم 1: من الطلب الغامض إلى قرار موثق](https://sdaiaacademy.github.io/lds-adv-302/slides/day1.md): القرار الكامن وراء الطلب، ومذكرة نطاق وخريطة أصحاب مصلحة، ثم ورشة توصل ستة مسؤولين مختلفين إلى معايير موثقة؛ الجلسات: القرار الكامن وراء الطلب، نطاق التكليف: الاستثناءات والتغيير وأصحاب المصلحة، العروض وخطط العمل وضبط الجودة وتصميم الورشة، تيسير النقاش عند الخلاف وإشراك الأصوات الأقل حضورًا؛ الصفحة: https://sdaiaacademy.github.io/lds-adv-302/slides/day1.html؛ نحو 6,565 من الوحدات النصية
+- [اليوم 2: من الأدلة إلى توصية تصمد](https://sdaiaacademy.github.io/lds-adv-302/slides/day2.md): ورقة خيارات يرجع كل ادعاء فيها إلى دليل، ومراجعة ما صاغه الذكاء الاصطناعي، والسرية والإفصاح، والارتباطات بالموردين؛ الجلسات: الأدلة في مقابل التقدير الشخصي: ورقة الخيارات، التحقق مما صاغ الذكاء الاصطناعي مسودته، الإفصاح عن الذكاء الاصطناعي وحماية بيانات العميل، الموردون والأعمال اللاحقة ومتى يُعتذر عن التكليف؛ الصفحة: https://sdaiaacademy.github.io/lds-adv-302/slides/day2.html؛ نحو 6,865 من الوحدات النصية
+- [المشروع الختامي: الإحاطة للراعي](https://sdaiaacademy.github.io/lds-adv-302/slides/capstone.md): في ختام اليوم الثاني: إحاطة كل مشارك في عشر دقائق لراعٍ يضغط للحصول على الإجابة التي يفضلها، ثم إطلاق مهمة المتابعة؛ الصفحة: https://sdaiaacademy.github.io/lds-adv-302/slides/capstone.html؛ نحو 1,307 من الوحدات النصية
+
+## المختبرات
+
+- [المختبر 1.2: المكالمة الاستكشافية ومذكرة النطاق](https://sdaiaacademy.github.io/lds-adv-302/labs/D1_2_discovery_scope.md): اليوم 1، الجلسة 2، 90 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/lds-adv-302/labs/D1_2_discovery_scope.html
+- [المختبر 1.4: تيسير مقطع الورشة الذي مدته 20 دقيقة](https://sdaiaacademy.github.io/lds-adv-302/labs/D1_4_workshop_segment.md): اليوم 1، الجلسة 4، 120 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/lds-adv-302/labs/D1_4_workshop_segment.html
+- [المختبر 2.1: صياغة ورقة الخيارات](https://sdaiaacademy.github.io/lds-adv-302/labs/D2_1_options_paper.md): اليوم 2، الجلسة 1، 80 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/lds-adv-302/labs/D2_1_options_paper.html
+- [المختبر 2.4: مراجعة مخرج مدسوس الأخطاء ومعالجة سيناريوهات السلوك المهني](https://sdaiaacademy.github.io/lds-adv-302/labs/D2_4_review_conduct.md): اليوم 2، الجلسة 4، 70 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/lds-adv-302/labs/D2_4_review_conduct.html
+
+## ملفات السياق
+
+- [context/course.md](https://sdaiaacademy.github.io/lds-adv-302/context/course.md): المقرر كاملًا، لمساعد يقبل ملفًا مرفقًا، نحو 15,376 من الوحدات النصية
+- [context/day1.md](https://sdaiaacademy.github.io/lds-adv-302/context/day1.md): اليوم 1، نحو 6,565 من الوحدات النصية
+- [context/day2.md](https://sdaiaacademy.github.io/lds-adv-302/context/day2.md): اليوم 2، نحو 6,865 من الوحدات النصية
+- [context/capstone.md](https://sdaiaacademy.github.io/lds-adv-302/context/capstone.md): المشروع الختامي، نحو 1,307 من الوحدات النصية
