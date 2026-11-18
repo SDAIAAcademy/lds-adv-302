@@ -1,0 +1,9 @@
+{
+  "note": "Reference scores of lab 2.1 (1 to 5 per criterion), with the evidence each rests on, in D2_1_options_paper.md.",
+  "weights": {"K1": 30, "K2": 25, "K3": 15, "K4": 15, "K5": 15},
+  "reference_scores": {
+    "A": {"K1": 2, "K2": 2, "K3": 3, "K4": 1, "K5": 2},
+    "B": {"K1": 4, "K2": 5, "K3": 3, "K4": 5, "K5": 4},
+    "C": {"K1": 3, "K2": 4, "K3": 4, "K4": 4, "K5": 3}
+  }
+}
